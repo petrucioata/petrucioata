@@ -1,11 +1,11 @@
 <details>
-  <summary><b>👋 About</b></summary>
+  <summary><b>👋 Hello && About</b></summary>
     Hi there 👋 <br>
   I'm <b>Petru</b>, a software developer mainly interested in backend technologies.
 </details>
 
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <summary><b>🛠️ Work-tools</b></summary><br/>
     <ul>
       <li>
         Languages<br>
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary><b>📈 My Stats</b></summary>
+  <summary><b>📈 Contributions Graph</b></summary>
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petrucioata&layout=compact&theme=nord"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=petrucioata&show_icons=true&theme=nord"><br>
