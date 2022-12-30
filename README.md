@@ -51,6 +51,11 @@
               </a>
             </td>
             <td>
+              <a href="https://sciprofiles.com/profile/petru-cioata">
+                <img height="50" src="https://pape.science/pictures/icon/sciprofiles-logo.png" />
+              </a>
+            </td>
+            <td>
               <a href="https://www.linkedin.com/in/petru-cioat%C4%83-a0458792/">
                 <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
               </a>
